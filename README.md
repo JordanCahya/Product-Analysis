@@ -62,3 +62,7 @@ namun menempati posisi ketiga pada total penjualan.
 Selain itu, produk bed_bath_table merupakan produk paling bagus performanya (pertumbuhan, total penjualan, dan merupakan produk yang paling diminati) 
 jika dibandingkan dengan produk lain. Sedangkan, performa produk garden_tools perlu diperhatikan dikarenakan menurun secara signifikan dari 1399 
 menjadi 993 (turun sebesar 29 persen). Perusahaan perlu mencari penyebab penurunan signifikan pada produk garden_tools.
+
+------------------------
+
+Link to Medium = https://medium.com/@jordancahya1/analisa-terhadap-performa-produk-menggunakan-python-pandas-c0ee1cef67f5
